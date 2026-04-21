@@ -1,3 +1,4 @@
+*****AI used to explain this project*****
 # Libft - Your Very First Own Library
 
 ## 🎯 Project Overview
